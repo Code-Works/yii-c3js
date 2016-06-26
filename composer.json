@@ -1,0 +1,15 @@
+{
+  "name": "Code-Works/yii-c3js",
+  "description": "c2.js adapter for the Yii Framework",
+  "keywords": [
+    "yii",
+    "c3",
+    "c3js"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Frank Gehann"
+    }
+  ]
+}
